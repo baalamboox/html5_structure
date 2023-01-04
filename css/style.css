@@ -1,0 +1,48 @@
+* {
+    border: 1px solid white;
+}
+#div_header {
+    height: 100px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    background-image: linear-gradient(to right, salmon, sandybrown);
+    /*background-color: salmon;*/
+}
+#div_nav {
+    height: 50px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    background-image: linear-gradient(to right, sandybrown, darksalmon, tomato);
+    /*background-color: sandybrown;*/
+}
+#div_section {
+    height: 500px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    background-image: linear-gradient(to right, salmon, sandybrown, darksalmon);
+    /*background-color: darksalmon;*/
+}
+#div_aside {
+    height: 500px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    background-image: linear-gradient(to right, tomato, salmon);
+    /*background-color: tomato;*/
+}
+#div_footer {
+    height: 200px;
+    text-align: center;
+    color: white;
+    font-size: large;
+    background-image: linear-gradient(to right, sienna, brown);
+    /*background-color: sienna;*/
+}
+#div_article {
+    height: 100px;
+    background-image: linear-gradient(to right, lightcoral, coral);
+    /*background-color: lightcoral;*/
+}
